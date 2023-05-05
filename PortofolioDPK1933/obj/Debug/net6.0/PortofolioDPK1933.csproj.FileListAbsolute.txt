@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\bin\Debug\net6.0\PortofolioDPK1933.exe
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\bin\Debug\net6.0\PortofolioDPK1933.deps.json
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\bin\Debug\net6.0\PortofolioDPK1933.runtimeconfig.json
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\bin\Debug\net6.0\PortofolioDPK1933.dll
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\bin\Debug\net6.0\PortofolioDPK1933.pdb
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.AssemblyInfo.cs
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.dll
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\refint\PortofolioDPK1933.dll
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.pdb
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\PortofolioDPK1933.genruntimeconfig.cache
+C:\Users\PC\Documents\C#\PortofolioDPK1933\PortofolioDPK1933\obj\Debug\net6.0\ref\PortofolioDPK1933.dll
